@@ -1,0 +1,76 @@
+{
+  "artists": [
+    {
+      "userID": "2",
+      "enName": "Heejin",
+      "emoji": "🐰",
+      "profileImgURL": "https://dnkvjm1f8biz3.cloudfront.net/images/user/profile/2/1655174806_20220614114643_f.jpg"
+    },
+    {
+      "userID": "3",
+      "enName": "HyunJin",
+      "emoji": "🐱",
+      "profileImgURL": "https://dnkvjm1f8biz3.cloudfront.net/images/user/profile/3/1655737120_20220620235840_f.jpg"
+    },
+    {
+      "userID": "4",
+      "enName": "HaSeul",
+      "emoji": "🕊️",
+      "profileImgURL": "https://dnkvjm1f8biz3.cloudfront.net/images/user/profile/4/1654961590_IMAGE_20220612_0032543649418361834158126.jpg"
+    },
+    {
+      "userID": "5",
+      "enName": "YeoJin",
+      "emoji": "🐸",
+      "profileImgURL": "https://dnkvjm1f8biz3.cloudfront.net/images/user/profile/5/1655456893_20220617180808_f.jpg"
+    },
+    {
+      "userID": "6",
+      "enName": "ViVi",
+      "emoji": "🦌",
+      "profileImgURL": "https://dnkvjm1f8biz3.cloudfront.net/images/user/profile/6/1655368485_20220616173444_f.jpg"
+    },
+    {
+      "userID": "7",
+      "enName": "Kim Lip",
+      "emoji": "🦉",
+      "profileImgURL": "https://dnkvjm1f8biz3.cloudfront.net/images/user/profile/7/1652674796_20220516131955_f.jpg"
+    },
+    {
+      "userID": "8",
+      "enName": "JinSoul",
+      "emoji": "🐟",
+      "profileImgURL": "https://dnkvjm1f8biz3.cloudfront.net/images/user/profile/8/1655738429_20220621002027_f.jpg"
+    },
+    {
+      "userID": "9",
+      "enName": "Choerry",
+      "emoji": "🦇",
+      "profileImgURL": "https://dnkvjm1f8biz3.cloudfront.net/images/user/profile/9/1655391298_20220616235458_f.jpg"
+    },
+    {
+      "userID": "10",
+      "enName": "Yves",
+      "emoji": "🦢",
+      "profileImgURL": "https://dnkvjm1f8biz3.cloudfront.net/images/user/profile/10/1655571931_20220619020530_f.jpg"
+    },
+    {
+      "userID": "11",
+      "enName": "Chuu",
+      "emoji": "🐧",
+      "profileImgURL": "https://dnkvjm1f8biz3.cloudfront.net/images/user/profile/11/1654842863_20220610153421_f.jpg"
+    },
+    {
+      "userID": "12",
+      "enName": "Go Won",
+      "emoji": "🦋",
+      "profileImgURL": "https://dnkvjm1f8biz3.cloudfront.net/images/user/profile/12/1655564922_20220619000841_f.jpg"
+    },
+    {
+      "userID": "13",
+      "enName": "Olivia Hye",
+      "emoji": "🐺",
+      "profileImgURL": "https://dnkvjm1f8biz3.cloudfront.net/images/user/profile/13/1655734364_20220620231243_f.jpg"
+    }
+  ]
+}

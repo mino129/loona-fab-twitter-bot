@@ -17,15 +17,16 @@ class TwitterActions{
     async profileUpdate(mediaFileName, emoji, memberName){
         const date = new Date();
         let seoulTime = formatInTimeZone(date, 'Asia/Seoul', 'HH:mm');
+        let seoulDate = formatInTimeZone(date, 'Asia/Seoul', 'dMMyyyy');
         let mediaId = await this.rwClient.v1.uploadMedia("./profile_pics/" + mediaFileName);
         let { data: createdTweet } = await this.rwClient.v2.tweet(
-            `${emoji} Profile Picture Update: ~ ${seoulTime}`,
+            `${emoji} Profile Picture Update: ~ ${seoulTime} KST ${seoulDate}`,
             {
                 media: { media_ids: [mediaId] }
             }
         );
         console.log("Member: ", memberName);
-        console.log('Tweet', createdTweet.id, ':', createdTweet.text)
+        console.log('Tweet', createdTweet.id, ':', createdTweet.text);
     }
 }
 

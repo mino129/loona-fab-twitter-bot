@@ -5,7 +5,7 @@ import path from "path";
 import TwitterActions from './twitterActions.js';
 import cron from "node-cron";
 
-cron.schedule('*/30 * * * * *', async () => {
+cron.schedule('*/8 * * * * *', async () => {
     const loonaInfoRequest = await fetch(
         "https://vip-fab-api.myfab.tv/fapi/2/groups/1",
         {

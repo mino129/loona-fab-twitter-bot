@@ -1,7 +1,7 @@
 import fs from "fs"
 import path from "path";
 
-const directory = './profile_pics';
+const directory = '../../assets/profile_pics';
 
 fs.readdir(directory, (err, files) => {
     if (err) throw err;
